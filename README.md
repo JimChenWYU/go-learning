@@ -14,7 +14,7 @@
     + MacOS
 - 基本概念
     + [包](basic-conception/package.md)
-    + GOPATH
+    + [GOPATH](basic-conception/gopath.md)
     + go 工具链
     + 包管理工具
 - 基本语法
