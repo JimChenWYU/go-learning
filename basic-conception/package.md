@@ -13,7 +13,7 @@ net/http
     testdata/
 ```
 
-> cgi 和 cookiejar 都是一个包，可以单独被引用，使用，他们组成更大的包http包
+> cgi 和 cookiejar 都是一个包，可以单独被引用，使用，他们组成更大的包 http 包
 
 **注意**：同一个目录下所有的 .go 文件都会命名为同一个包名。
 
