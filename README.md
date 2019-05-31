@@ -13,7 +13,7 @@
     + [Windows](install/windows.md)
     + MacOS
 - 基本概念
-    + 包
+    + [包](basic-conception/package.md)
     + GOPATH
     + go 工具链
     + 包管理工具
