@@ -17,6 +17,9 @@
     + [GOPATH](basic-conception/gopath.md)
     + [Go 工具链](basic-conception/gotools.md)
     + 包管理工具
+        - [dep](basic-conception/dep.md)
+        - govendor
+        - modules
 - 基本语法
     + 变量定义
     + init 函数
