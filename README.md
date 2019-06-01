@@ -15,7 +15,7 @@
 - 基本概念
     + [包](basic-conception/package.md)
     + [GOPATH](basic-conception/gopath.md)
-    + [Go 工具链](basic-conception/gotools.md) (doing)
+    + [Go 工具链](basic-conception/gotools.md)
     + 包管理工具
 - 基本语法
     + 变量定义
