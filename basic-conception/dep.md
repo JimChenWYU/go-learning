@@ -5,7 +5,7 @@
 sudo apt-get install go-dep
 ```
 
-## Windows
+### Windows
 在 [go.equinox.io](https://go.equinox.io/github.com/golang/dep/cmd/dep) 上下载压缩包解压，通过 `powershell` 或者 `cmd` 运行 dep.exe
 
 ### MacOS
@@ -15,7 +15,7 @@ $ brew install dep
 $ brew upgrade dep
 ```
 
-## Other Platform
+### Other Platform
 ```shell
 curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
 ```
