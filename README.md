@@ -19,7 +19,7 @@
     + 包管理工具
         - [dep](basic-conception/dep.md)
         - [govendor](basic-conception/govendor.md)
-        - modules
+        - [modules](basic-conception/gomodules.md)
 - 基本语法
     + 变量定义
     + init 函数
