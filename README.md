@@ -18,7 +18,7 @@
     + [Go 工具链](basic-conception/gotools.md)
     + 包管理工具
         - [dep](basic-conception/dep.md)
-        - govendor
+        - [govendor](basic-conception/govendor.md)
         - modules
 - 基本语法
     + 变量定义
