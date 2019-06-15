@@ -22,7 +22,7 @@
         - [modules](basic-conception/gomodules.md)
 - 基本语法
     + [变量定义](grammar/define.go)
-    + init 函数
+    + [init 函数](grammar/init.go)
     + main 函数
 - 数组，切片和映射
     + 数组
