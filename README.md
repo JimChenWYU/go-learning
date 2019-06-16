@@ -29,7 +29,7 @@
     + [切片](array,slice,map/slice.go)
     + [映射](array,slice,map/map.go)
 - 类型系统
-    + 自定义类型（struct）
+    + [自定义类型（struct）](typesystem/struct.go)
     + 方法
     + 类型的本质
     + 接口
