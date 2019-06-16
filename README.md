@@ -25,8 +25,8 @@
     + [init 函数](grammar/init.go)
     + [main 函数](grammar/main.md)
 - 数组，切片和映射
-    + 数组
-    + 切片
+    + [数组](array,slice,map/array.go)
+    + [切片]((array,slice,map/slice.go))
     + 映射
 - 类型系统
     + 自定义类型（struct）
