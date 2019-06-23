@@ -30,7 +30,7 @@
     + [映射](array,slice,map/map.go)
 - 类型系统
     + [自定义类型（struct）](typesystem/struct.go)
-    + 方法
+    + [方法](typesystem/method.go)
     + 类型的本质
     + 接口
     + 嵌入类型
