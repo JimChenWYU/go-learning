@@ -34,7 +34,7 @@
     + [类型的本质](typesystem/type.md)
     + [接口](typesystem/interface.go)
     + [嵌入类型](typesystem/typeembedding.go)
-    + 标识符
+    + [标识符](typesystem/identifier.md)
 - 并发编程
     + 并发和并行的区别
     + goroutine
