@@ -36,7 +36,7 @@
     + [嵌入类型](typesystem/typeembedding.go)
     + [标识符](typesystem/identifier.md)
 - 并发编程
-    + 并发和并行的区别
+    + [并发和并行的区别](concurrent/concurrence,parallelism.md)
     + goroutine
     + 什么是竞争状态？
     + 解决竞争状态的方法
