@@ -38,7 +38,7 @@
 - 并发编程
     + [并发和并行的区别](concurrent/concurrence,parallelism.md)
     + [goroutine](concurrent/goroutine.go)
-    + 什么是竞争状态？
+    + [什么是竞争状态？](concurrent/competition.md)
     + 解决竞争状态的方法
         - 原子函数
         - 互斥锁
