@@ -40,7 +40,7 @@
     + [goroutine](concurrent/goroutine.go)
     + [什么是竞争状态？](concurrent/competition.md)
     + 解决竞争状态的方法
-        - 原子函数
+        - [原子函数](concurrent/atomfunction.go)
         - 互斥锁
     + 通道
         - 无缓冲通道
