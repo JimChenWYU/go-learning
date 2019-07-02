@@ -41,7 +41,7 @@
     + [什么是竞争状态？](concurrent/competition.md)
     + 解决竞争状态的方法
         - [原子函数](concurrent/atomfunction.go)
-        - 互斥锁
+        - [互斥锁](concurrent/mutex.go)
     + 通道
         - 无缓冲通道
         - 缓冲通道
