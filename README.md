@@ -43,7 +43,7 @@
         - [原子函数](concurrent/atomfunction.go)
         - [互斥锁](concurrent/mutex.go)
     + 通道
-        - 无缓冲通道
+        - [无缓冲通道](channel/unbuffered_channel.go)
         - 缓冲通道
     + 并发模式
         - Runner
