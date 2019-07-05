@@ -46,7 +46,7 @@
         - [无缓冲通道](channel/unbuffered_channel.go)
         - [缓冲通道](channel/buffered_channel.go)
     + 并发模式
-        - Runner
+        - [Runner](concurrent/runner/runner.go)
         - Pool
         - Work
 - 标准库
