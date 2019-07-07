@@ -48,7 +48,7 @@
     + 并发模式
         - [Runner](concurrent/runner/runner.go)
         - [Pool](concurrent/pool/pool.go)
-        - Work
+        - [Work](concurrent/work/work.go)
 - 标准库
     + 日志
     + JSON编码/解码
