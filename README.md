@@ -50,7 +50,7 @@
         - [Pool](concurrent/pool/pool.go)
         - [Work](concurrent/work/work.go)
 - 标准库
-    + 日志
+    + [日志](standard-library/log.go)
     + JSON编码/解码
     + 输入/输出
 - 测试工具
