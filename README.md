@@ -51,7 +51,7 @@
         - [Work](concurrent/work/work.go)
 - 标准库
     + [日志](standard-library/log.go)
-    + JSON编码/解码
+    + [JSON编码/解码](standard-library/json.go)
     + 输入/输出
 - 测试工具
     + 单元测试
