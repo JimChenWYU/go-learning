@@ -1,0 +1,15 @@
+<article>
+    <title>Read XML</title>
+    <images>
+        <url>https://images.unsplash.com/photo-1560981288-6bb2f13da3df?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max</url>
+    </images>
+    <images>
+        <url>https://images.unsplash.com/photo-1561548146-1cd0500152ad?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max</url>
+    </images>
+    <images>
+        <url>https://images.unsplash.com/photo-1560836056-bc8c61d1d8b6?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max</url>
+    </images>
+    <author>
+        <name>John</name>
+    </author>
+</article>
