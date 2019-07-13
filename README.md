@@ -53,7 +53,7 @@
     + [日志](standard-library/log.go)
     + [JSON编码/解码](standard-library/json.go)
     + [XML编码/解码](standard-library/xml.go)
-    + 输入/输出
+    + [输入/输出](standard-library/writer_reader.go)
 - 测试工具
     + 单元测试
         - 基础测试
