@@ -54,6 +54,8 @@
     + [JSON编码/解码](standard-library/json.go)
     + [XML编码/解码](standard-library/xml.go)
     + [输入/输出](standard-library/writer_reader.go)
+- 错误处理
+    + [普通错误](errors/common.go)    
 - 测试工具
     + 单元测试
         - [基础测试](test-tool/basic_test.go)
