@@ -61,4 +61,4 @@
         - [模仿调用](test-tool/mockhttp_test.go)
         - [测试服务端点](test-tool/handlers/handlers_test.go)
         - [文档生成](test-tool/handlers/handlers_example_test.go)
-    + 基准测试
+    + [基准测试](test-tool/benchmark_test.go)
